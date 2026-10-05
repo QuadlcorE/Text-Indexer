@@ -1,4 +1,4 @@
-# FILE-SEARCH-ENGINE
+# Text-Indexer
 
 _Find Files Faster, Search Smarter, Work Better_
 
